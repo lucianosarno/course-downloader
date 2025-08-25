@@ -1,1 +1,3 @@
-.kilocode.env
+.kilocode
+.env
+.venv
