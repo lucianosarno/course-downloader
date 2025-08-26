@@ -1,3 +1,4 @@
-.kilocode
+.venv/
+__pycache__/
 .env
-.venv
+.kilocode
